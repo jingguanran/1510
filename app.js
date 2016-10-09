@@ -1,3 +1,7 @@
 (function(e){
 	alert(e)
-})(12312)
+})(1)
+function a(){
+	alert(2134)
+}
+a()
