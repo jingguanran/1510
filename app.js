@@ -5,3 +5,4 @@ function a(){
 	alert(2134)
 }
 a()
+alert(123)
